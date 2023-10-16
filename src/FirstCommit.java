@@ -4,10 +4,6 @@ public class FirstCommit {
         System.out.println("Hello there");
         System.out.println("Hello mucho");
         // What news guys 
-
-
-         
-
-
+        // Are you doing good?
     }
 }
