@@ -3,7 +3,6 @@ public class FirstCommit {
         System.out.println("First commit");
         System.out.println("Hello there");
         System.out.println("Hello mucho");
-        System.out.println("what's up");
 
 
          
